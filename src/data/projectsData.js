@@ -8,6 +8,7 @@ import seven from "../assets/svg/projects/seven.svg";
 import eight from "../assets/svg/projects/eight.svg";
 import tiko from "../assets/svg/projects/tiko.svg";
 import wh from "../assets/svg/projects/warehouse.svg";
+import fs from "../assets/svg/projects/fs.svg";
 
 export const projectsData = [
   {
@@ -22,7 +23,7 @@ export const projectsData = [
   },
   {
     id: 2,
-    projectName: "Warehouse 329",
+    projectName: "Warehouse 329 Database",
     projectDesc:
       "Group project for ISC 329 - Database Management Systems in Business.  A MySql database intended to replicate a simple warehousing system.  Node.JS backend connects database to simple web interface.",
     tags: ["Node.Js", "MySql", "Heroku"],
@@ -30,16 +31,16 @@ export const projectsData = [
     demo: "https://warehouse329.herokuapp.com/",
     image: wh,
   },
-  //   {
-  //     id: 3,
-  //     projectName: "Weather App",
-  //     projectDesc:
-  //       "Weather forecast systems and applications predict weather conditions based on multiple parameters.",
-  //     tags: ["Django", "CSS", "Material Ui"],
-  //     code: "https://github.com/hhhrrrttt222111/developer-portfolio",
-  //     demo: "https://github.com/hhhrrrttt222111/developer-portfolio",
-  //     image: three,
-  //   },
+  {
+    id: 3,
+    projectName: "Oswego Campus Map Interface",
+    projectDesc:
+      "Ongoing Campus map interface for SUNY Oswego's Facility services, will eventually be used as the backbone for multiple projects. Made with standard web development paradigms and the MapBoxJS-GL frame.",
+    tags: ["MapboxJS-GL", "JavaScript", "HTML", "JQuery"],
+    code: "https://github.com/NULLWulf/Oswego-Dashboard-Project",
+    demo: "https://nullwulf.github.io/Oswego-Dashboard-Project/",
+    image: fs,
+  },
   //   {
   //     id: 4,
   //     projectName: "Android Patient Tracker",
