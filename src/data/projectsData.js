@@ -7,28 +7,29 @@ import six from "../assets/svg/projects/six.svg";
 import seven from "../assets/svg/projects/seven.svg";
 import eight from "../assets/svg/projects/eight.svg";
 import tiko from "../assets/svg/projects/tiko.svg";
+import wh from "../assets/svg/projects/warehouse.svg";
 
 export const projectsData = [
   {
     id: 1,
     projectName: "TikoJar Discord Bot",
     projectDesc:
-      "This project aims to build an employee management system that consolidates all information of a company",
-    tags: ["Discord", "Java", "MongoDB"],
+      "Group Project for CSC380 - Software Engineering. Java powered Discord bot intended to serve as a positivty jar in which users can add messages to it and the jar opens based on a time limit or message limit condition.",
+    tags: ["Discord", "Java", "MongoDB", "React"],
     code: "",
     demo: "https://tikojar.com/",
     image: tiko,
   },
-  //   {
-  //     id: 2,
-  //     projectName: "Railway Tracking",
-  //     projectDesc:
-  //       "This project is a railway tracking system that allows users to obtain relevant information about train timing.",
-  //     tags: ["Django", "Tailwind CSS"],
-  //     code: "https://github.com/hhhrrrttt222111/developer-portfolio",
-  //     demo: "https://github.com/hhhrrrttt222111/developer-portfolio",
-  //     image: two,
-  //   },
+  {
+    id: 2,
+    projectName: "Warehouse 329",
+    projectDesc:
+      "Group project for ISC 329 - Database Management Systems in Business.  A MySql database intended to replicate a simple warehousing system.  Node.JS backend connects database to simple web interface.",
+    tags: ["Node.Js", "MySql", "Heroku"],
+    code: "https://github.com/NULLWulf/WarehouseDB",
+    demo: "https://warehouse329.herokuapp.com/",
+    image: wh,
+  },
   //   {
   //     id: 3,
   //     projectName: "Weather App",
