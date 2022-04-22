@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'janedoe.test@gmail.com',
-    phone: '+915588776600',
-    address: 'Menlo Park, California, United States - 673822 ',
+  email: "nwolf2@oswego.edu",
+  phone: "+5184193521",
+  address: "Oswego, NY - 13126",
 
-    sheetAPI: ''
-}
+  sheetAPI: "",
+};
