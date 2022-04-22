@@ -1,24 +1,28 @@
- export const skillsData = [
-    'HTML',
-    'Fastify',
-    'Blender',
-    'Figma',
-    'Javascript',
-    'CSS',
-    'React',
-    'Django',
-]
+export const skillsData = [
+  "HTML",
+  "Javascript",
+  "CSS",
+  "Microsoft Office",
+  "C++",
+  "Java",
+  "C#",
+  "MongoDB",
+  "MySQL",
+  "Java",
+  "Ubuntu",
+  "Markdown",
+  "Git",
+];
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
 // Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
 
-
 // AVAILABLE SKILLS
 
 /* 
-    HTML
-    CSS
-    JS 
+    * HTML
+    * CSS
+    * JS 
     React
     Next JS
     Nuxt JS
@@ -34,8 +38,8 @@
     Fastify
     Haxe
     Ionic
-    Markdown
-    Microsoft Office
+    * Markdown
+    * Microsoft Office
     Picsart
     Sketch
     Unity
@@ -48,10 +52,10 @@
     Coffeescript
     MemSQL
     C
-    C++
-    C#
+    * C++
+    * C#
     Python
-    Java
+    * Java
     Julia
     Matlab
     Swift
@@ -63,16 +67,16 @@
     Dart
     Typescript
     Swift
-    Git
+    * Git
     Figma
     Canva
-    Ubuntu
+    * Ubuntu
     Bootstrap
-    MongoDB
+    * MongoDB
     Tailwind
     ViteJS
     VuetifyJS
-    MySQL
+    * MySQL
     PostgreSQL
     AWS
     Firebase
@@ -86,7 +90,7 @@
     Lightroom
     MaterialUI
     Nginx
-    Numpy
+    * Numpy
     OpenCV
     Pytorch
     Selenium
