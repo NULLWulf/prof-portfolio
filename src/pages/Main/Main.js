@@ -7,14 +7,14 @@ import {
   Landing,
   About,
   Skills,
-  Testimonials,
-  Blog,
+  //   Testimonials,
+  //   Blog,
   Education,
   Experience,
   Contacts,
   Projects,
-  Services,
-  Achievement,
+  //   Services,
+  //   Achievement,
 } from "../../components";
 import { headerData } from "../../data/headerData";
 
@@ -32,8 +32,9 @@ function Main() {
       <Skills />
       <Experience />
       <Projects />
-      <Achievement />
-      {/* <Services />
+      {/* <Achievement />
+            <Services />
+>>>>>>> 5c2efbcbc6526a4652d969464520e699978c82f8
             <Testimonials />
             <Blog /> */}
       <Contacts />
