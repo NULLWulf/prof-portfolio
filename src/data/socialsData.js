@@ -2,6 +2,7 @@ export const socialsData = {
   github: "https://github.com/NULLWulf",
   //   facebook: "https://www.facebook.com/",
   linkedIn: "https://www.linkedin.com/in/nwolf2/",
+  discord: 273274886011617280,
   //   instagram: "https://www.instagram.com/",
   //   codepen: "https://codepen.io/",
   //   twitter: "https://twitter.com/",

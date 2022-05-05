@@ -35,10 +35,10 @@ export const projectsData = [
     id: 3,
     projectName: "Oswego Campus Map Interface",
     projectDesc:
-      "Ongoing Campus map interface for SUNY Oswego's Facility services, will eventually be used as the backbone for multiple projects. Made with standard web development paradigms and the MapBoxJS-GL frame.",
-    tags: ["MapboxJS-GL", "JavaScript", "HTML", "JQuery"],
-    code: "https://github.com/NULLWulf/Oswego-Dashboard-Project",
-    demo: "https://nullwulf.github.io/Oswego-Dashboard-Project/",
+      "Campus map interface utilzing MapBoxJS-GL with a Java powered Spring Boot web service. ",
+    tags: ["MapboxJS-GL", "JavaScript", "Spring", "Java"],
+    code: "https://github.com/NULLWulf/Oswego-Map-Interface-Data-Server",
+    demo: "https://oswego-map.herokuapp.com/",
     image: fs,
   },
   //   {
