@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/prof-portfolio/static/css/main.3fb2b8dc.chunk.css",
-    "main.js": "/prof-portfolio/static/js/main.2ec8c467.chunk.js",
-    "main.js.map": "/prof-portfolio/static/js/main.2ec8c467.chunk.js.map",
+    "main.js": "/prof-portfolio/static/js/main.730a20d0.chunk.js",
+    "main.js.map": "/prof-portfolio/static/js/main.730a20d0.chunk.js.map",
     "runtime-main.js": "/prof-portfolio/static/js/runtime-main.effd978b.js",
     "runtime-main.js.map": "/prof-portfolio/static/js/runtime-main.effd978b.js.map",
     "static/css/2.05ccb451.chunk.css": "/prof-portfolio/static/css/2.05ccb451.chunk.css",
@@ -148,7 +148,7 @@
     "static/media/vitejs.11f3d899.svg": "/prof-portfolio/static/media/vitejs.11f3d899.svg",
     "static/media/vue.5f5d1689.svg": "/prof-portfolio/static/media/vue.5f5d1689.svg",
     "static/media/vuetifyjs.3848fcff.svg": "/prof-portfolio/static/media/vuetifyjs.3848fcff.svg",
-    "static/media/warehouse.c462d06e.svg": "/prof-portfolio/static/media/warehouse.c462d06e.svg",
+    "static/media/warehouse.3abfa330.svg": "/prof-portfolio/static/media/warehouse.3abfa330.svg",
     "static/media/webix.dc98a7d7.svg": "/prof-portfolio/static/media/webix.dc98a7d7.svg",
     "static/media/wolframalpha.e6299b2d.svg": "/prof-portfolio/static/media/wolframalpha.e6299b2d.svg",
     "static/media/wordpress.f39aa81e.svg": "/prof-portfolio/static/media/wordpress.f39aa81e.svg",
@@ -160,6 +160,6 @@
     "static/css/2.05ccb451.chunk.css",
     "static/js/2.dcb28e18.chunk.js",
     "static/css/main.3fb2b8dc.chunk.css",
-    "static/js/main.2ec8c467.chunk.js"
+    "static/js/main.730a20d0.chunk.js"
   ]
 }
