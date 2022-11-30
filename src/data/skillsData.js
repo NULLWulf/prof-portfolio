@@ -1,8 +1,6 @@
 export const skillsData = [
   "HTML",
   "CSS",
-  "JS",
-  "Node JS",
   "Docker",
   "Markdown",
   "Microsoft Office",
@@ -11,7 +9,6 @@ export const skillsData = [
   "Java",
   "Go",
   "Git",
-  "Ubuntu",
   "MySQL",
   "MongoDB",
   "AWS",
