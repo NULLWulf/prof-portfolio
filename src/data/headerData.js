@@ -5,7 +5,7 @@ export const headerData = {
   name: "Nathaniel Wolf",
   title: "Computer Science University Student",
   desciption:
-    "Welcome to my personal website thanks for stopping in! I am a Computer Science student finsihing my Junior year at SUNY Oswego.  Please feel free to take a look around, particularly at my professional experience as well as my projects.",
+    "Welcome to my personal website thanks for stopping in!  I am a Senior in Computer Science at SUNY Oswego who will be graduating in May of 2023.  Feel free to take a look around such as my LinkedIn, GitHub, and Resume.  If you have any questions or would like to get in touch with me, please use the contact form below.",
   image: profileImg,
   resumePdf: resume,
 };
