@@ -2,16 +2,24 @@ export const experienceData = [
   {
     id: 1,
     company: "SUNY Oswego Facility Services",
-    jobtitle: "Data and Technology Analyst Intern",
+    jobtitle: "Software Development Intern",
     startYear: "December 2021",
-    endYear: "June 2022",
+    endYear: "May 2022",
   },
   {
     id: 2,
-    company: "Novelis",
+    company: "Novelis Aluminum",
     jobtitle:
-      "Global EMRA (Engineering, Maintenance, Reliabiity, Autoamtion) Intern",
-    startYear: "June 2022",
-    endYear: "TBD 2022",
+      "Automation Engineer Intern",
+    startYear: "May 2022",
+    endYear: "December 2022",
   },
+  {
+  id: 3,
+  company: "The Bonadio Group",
+  jobtitle:
+    "Application Development/Database Administration Intern",
+  startYear: "December 2022",
+  endYear: "Current",
+},
 ];
